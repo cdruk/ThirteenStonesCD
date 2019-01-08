@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thirteen Stones</string>
+    <string name="action_settings">Settings</string>
+    <string name="info_title">How to Play</string>
+    <string name="banner_text">Please choose the number of stones to discard:</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About...</string>
+</resources>
